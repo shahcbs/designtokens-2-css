@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Transform tokens from FT plugin to CSS",
   "scripts": {
-    "transform2CSS": "node transform2CSS.js"
+    "transform2CSS": "node build.js"
   },
   "dependencies": {
     "color2k": "^2.0.0",
