@@ -1,7 +1,7 @@
 [
   {
     "id": "ca88ec5b9ef77216df07f6e6ab8edb84daf75453",
-    "name": "Headless (base)",
+    "name": "base",
     "selectedTokenSets": {
       "01_core": "source",
       "02_comp/alert-banner": "enabled",
